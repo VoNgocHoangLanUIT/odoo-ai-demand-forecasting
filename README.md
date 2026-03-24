@@ -105,7 +105,7 @@ Typical local workflow:
 
 ## Team
 
-- **Võ Ngọc Hoàng Lân** — Project Manager
+- **Võ Ngọc Hoàng Lân** — Project Manager / Business Analyst
 - **Nguyễn Phúc Lộc** — Data Analyst / AI Engineer
 - **Nguyễn Minh Hiển** — ERP Consultant
 - **Võ Hồ Trung Quân** — Business Analyst
