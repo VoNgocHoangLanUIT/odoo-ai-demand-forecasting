@@ -89,20 +89,6 @@ The forecast output is used to support Odoo operations by:
 
 The workflow can be implemented so that data is processed for forecasting, then returned to Odoo so users can make more informed operational decisions directly within the ERP environment.
 
-## Repository Structure
-
-```text
-.
-├── README.md
-├── docs/                    # Report, screenshots, BPMN diagrams
-├── data/                    # Input and processed datasets
-├── notebooks/               # Colab / Jupyter notebooks for EDA and modeling
-├── models/                  # Saved models or experiment artifacts
-├── exports/                 # CSV files prepared for Odoo import
-├── odoo/                    # Odoo-related configs, import templates, custom logic
-└── assets/                  # Images used in the README or presentation
-```
-
 ## Suggested Setup
 
 ```bash
@@ -116,18 +102,6 @@ Typical local workflow:
 3. Export forecast results to CSV
 4. Import products / vendors / rules into Odoo
 5. Run procurement demo flow
-
-## Suggested Repository Contents
-
-To make the repository strong for GitHub and CV purposes, you should include:
-- Final report PDF
-- Dataset sample or anonymized sample
-- Colab/Jupyter notebooks
-- Export CSV samples for Odoo import
-- BPMN diagrams
-- Odoo screenshots for demo steps
-- A short architecture diagram
-- Optional: video demo or GIF walkthrough
 
 ## Team
 
